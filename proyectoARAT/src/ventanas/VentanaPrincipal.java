@@ -526,10 +526,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
                 jPanel4.setLayout(new BorderLayout());
                 jPanel4.add(cp3, BorderLayout.CENTER);
                 jPanel4.validate();
-                System.out.print("####### CLICK #######");
-
             } catch (Exception e) {
-                System.out.print("####### ERROR VISTA PRINCIPAL #######");
                 System.err.print(e);
             }
 
