@@ -36,10 +36,6 @@ import logicaExtension.KMeans;
 import logicaExtension.Regresion;
 import org.jfree.chart.ChartPanel;
 
-/**
- *
- * @author mario
- */
 public class VentanaPrincipal extends javax.swing.JFrame {
 
     private Vector datos;
