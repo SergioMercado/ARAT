@@ -1,0 +1,18 @@
+@relation peliculas
+
+@attribute genero {drama, comedia, accion, aventura, terror, suspenso}
+@attribute ano {2010, 2011, 2012, 2013, 2014, 2015}
+@attribute class {1,2,3,4}
+
+@data
+drama,2010,1
+drama,2012,4
+drama,2013,3
+accion,2012,2
+aventura,2010,2
+terror,2013,1
+suspensp,20103
+terror,2013,3
+comedia,2010,2
+suspenso,2012,3
+aventura,2010,2

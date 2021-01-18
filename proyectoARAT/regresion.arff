@@ -1,0 +1,20 @@
+@relation datos
+
+@attribute x NUMERIC
+@attribute y NUMERIC
+
+@data
+1,2
+2,4
+4,8
+5,10
+6,12
+7,14
+8,20
+9,25
+10,37
+12,45
+13,50
+14,69
+15,75
+16,89
